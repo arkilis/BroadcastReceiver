@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1376947333000 449 b6da21c5ebcf345502e7029d4f14689e4312745d /Users/ben/Ben's Files/Android/androidStudy/androidStudy/build/classes/debug/com/example/androidstudy/R$style.class
+1376947333000 737 6251821582c82606679fd99ad7989e0f34c54d09 /Users/ben/Ben's Files/Android/androidStudy/androidStudy/build/classes/debug/com/example/androidstudy/R.class
+1376942997000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/ben/Ben's Files/Android/androidStudy/androidStudy/libs/android-support-v4.jar
+1376943024000 358 bf896bdbc7de64f74b99a24fc70d78368af789b2 /Users/ben/Ben's Files/Android/androidStudy/androidStudy/build/classes/debug/com/example/androidstudy/R$attr.class
+1376947333000 421 56fd7212140e8c7ab8a78770a1c2c21817406040 /Users/ben/Ben's Files/Android/androidStudy/androidStudy/build/classes/debug/com/example/androidstudy/R$layout.class
+1376947333000 474 7e8df991731f7331c820fa73cdf90133afb4817b /Users/ben/Ben's Files/Android/androidStudy/androidStudy/build/classes/debug/com/example/androidstudy/R$id.class
+1377386237000 2585 3fe290c405452ce124d95883636f3d8b8ae4b559 /Users/ben/Ben's Files/Android/androidStudy/androidStudy/build/classes/debug/com/example/androidstudy/MainActivity.class
+1376943024000 479 417cc4303558b175a68ef2454bd41497c8e7133a /Users/ben/Ben's Files/Android/androidStudy/androidStudy/build/classes/debug/com/example/androidstudy/R$dimen.class
+1377384621000 1016 3e2f436eb281f186c41f7d106982e9ca4e7b47ca /Users/ben/Ben's Files/Android/androidStudy/androidStudy/build/classes/debug/com/example/androidstudy/ScreenONReceiver.class
+1376947333000 490 9951747bff3f311ef86291213349755d1ad856bd /Users/ben/Ben's Files/Android/androidStudy/androidStudy/build/classes/debug/com/example/androidstudy/R$string.class
+1376943024000 425 de28a0b7efb844535a6c44f96aa97148ea0d17bf /Users/ben/Ben's Files/Android/androidStudy/androidStudy/build/classes/debug/com/example/androidstudy/R$drawable.class
+1376943024000 357 f053e404ca42fcd9909e286b0d567049c5f1808e /Users/ben/Ben's Files/Android/androidStudy/androidStudy/build/classes/debug/com/example/androidstudy/BuildConfig.class
+1376947333000 406 c52d222f3041367880d54e5cf4e0b7b7307790cb /Users/ben/Ben's Files/Android/androidStudy/androidStudy/build/classes/debug/com/example/androidstudy/R$menu.class
